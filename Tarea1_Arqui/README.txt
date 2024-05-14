@@ -1,6 +1,6 @@
-Integrantes (Nombre / Rol / Paralelo):
-·Diego Alonso Ramirez Rojas / 202073534-4 / Paralelo 200
-·Ignacio Gómez González / 202273553-8 / Paralelo 201
+Integrantes (Nombre / Paralelo):
+·Diego Alonso Ramirez Rojas / Paralelo 200
+·Ignacio Gómez González / Paralelo 201
 
 Uso correcto del programa:
 ·Para poder ejecutar el programa se necesita de un archivo 'operaciones.txt' localizado en la misma carpeta que la del archivo, este
