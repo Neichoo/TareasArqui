@@ -1,6 +1,6 @@
-Integrantes (Nombre / Rol / Paralelo):
-·Diego Alonso Ramirez Rojas / 202073534-4 / Paralelo 200
-·Ignacio Gómez González / 202273553-8 / Paralelo 201
+Integrantes (Nombre / Paralelo):
+·Diego Alonso Ramirez Rojas / Paralelo 200
+·Ignacio Gómez González / Paralelo 201
 
 Para poder ejecutar el programa se requiere del software QtARMSim.
 El programa funciona mediante modificaciones en el código, en la sección  ".data".
